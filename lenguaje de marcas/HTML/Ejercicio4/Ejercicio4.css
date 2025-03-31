@@ -1,0 +1,31 @@
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+tr{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+}
+img{
+    width: 50px;
+    height: 50px;
+}
+.azul{
+    background-color: blue;
+}
+.amarillo{
+    background-color: yellow;
+}
+.fila{
+    background-color: red;
+    color: white;
+}
+.gris{
+    background-color: grey;
+}
+.letraroja{
+    color: red;
+}

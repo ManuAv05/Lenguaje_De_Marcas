@@ -1,0 +1,40 @@
+<?xml version = “1.0” ?>
+    <DOCTYPE>
+        <libro>
+            <titulo>El principito</titulo>
+            <editorial>booked</editorial>
+            <numero_paginas>161</numero_paginas>
+            <autor>Antoine de Saint-Exupéry</autor>
+            <capitulos>
+                <capitulo>
+                    <nombre>El principio de la aventura</nombre>
+                    <pagina_inicio>10</pagina_inicio>
+                    <pagina_final>21</pagina_final>
+                </capitulo>
+                <capitulo>
+                    <nombre>blablavbla</nombre>
+                    <pagina_inicio>21</pagina_inicio>
+                    <pagina_final>32</pagina_final>
+                </capitulo>
+                <capitulo>
+                    <nombre>blebleble</nombre>
+                    <pagina_inicio>32</pagina_inicio>
+                    <pagina_final>43</pagina_final>
+                </capitulo>
+                <capitulo>
+                    <nombre>blibliblibli</nombre>
+                    <pagina_inicio>43</pagina_inicio>
+                    <pagina_final>78</pagina_final>
+                </capitulo>
+                <capitulo>
+                    <nombre>blublublub</nombre>
+                    <pagina_inicio>78</pagina_inicio>
+                    <pagina_final>130</pagina_final>
+                </capitulo>
+                <capitulo>
+                    <nombre>bleblelbvel</nombre>
+                    <pagina_inicio>130</pagina_inicio>
+                    <pagina_final>158</pagina_final>
+                </capitulo>
+            </capitulos>
+        </libro>

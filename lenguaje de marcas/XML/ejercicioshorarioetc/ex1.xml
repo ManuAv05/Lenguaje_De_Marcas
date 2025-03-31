@@ -1,0 +1,104 @@
+<?xml version = “1.0” ?>
+    <DOCTYPE>
+    <cartelera>
+        <pelicula>
+            <titulo>La Odisea Espacial</titulo>
+            <director>
+                <nombre>Stanley Kubrick</nombre>
+            </director>
+            <protagonistas>
+                <protagonista>Keir Dullea</protagonista>
+                <protagonista>Gary Lockwood</protagonista>
+            </protagonistas>
+            <resumen>
+                Una misión espacial a Júpiter dirigida por una inteligencia artificial comienza a mostrar signos de rebelión.
+            </resumen>
+            <sala>Sala 1</sala>
+            <sesiones>
+                <sesion>12:00</sesion>
+                <sesion>16:00</sesion>
+                <sesion>20:00</sesion>
+            </sesiones>
+        </pelicula>
+        
+        <pelicula>
+            <titulo>El Padrino</titulo>
+            <director>
+                <nombre>Francis Ford Coppola</nombre>
+            </director>
+            <protagonistas>
+                <protagonista>Marlon Brando</protagonista>
+                <protagonista>Al Pacino</protagonista>
+            </protagonistas>
+            <resumen>
+                La crónica de la familia mafiosa Corleone y su lucha por el poder en el mundo del crimen organizado.
+            </resumen>
+            <sala>Sala 2</sala>
+            <sesiones>
+                <sesion>11:00</sesion>
+                <sesion>15:00</sesion>
+                <sesion>19:00</sesion>
+            </sesiones>
+        </pelicula>
+        
+        <pelicula>
+            <titulo>Inception</titulo>
+            <director>
+                <nombre>Christopher Nolan</nombre>
+            </director>
+            <protagonistas>
+                <protagonista>Leonardo DiCaprio</protagonista>
+                <protagonista>Joseph Gordon-Levitt</protagonista>
+            </protagonistas>
+            <resumen>
+                Un ladrón que se infiltra en los sueños de las personas tiene la tarea de implantar una idea en la mente de un empresario.
+            </resumen>
+            <sala>Sala 3</sala>
+            <sesiones>
+                <sesion>13:00</sesion>
+                <sesion>17:00</sesion>
+                <sesion>21:00</sesion>
+            </sesiones>
+        </pelicula>
+        
+        <pelicula>
+            <titulo>El Gran Hotel Budapest</titulo>
+            <director>
+                <nombre>Wes Anderson</nombre>
+            </director>
+            <protagonistas>
+                <protagonista>Ralph Fiennes</protagonista>
+                <protagonista>Tony Revolori</protagonista>
+            </protagonistas>
+            <resumen>
+                Las aventuras de un legendario conserje de un famoso hotel europeo y su joven protegido.
+            </resumen>
+            <sala>Sala 4</sala>
+            <sesiones>
+                <sesion>10:00</sesion>
+                <sesion>14:00</sesion>
+                <sesion>18:00</sesion>
+            </sesiones>
+        </pelicula>
+        
+        <pelicula>
+            <titulo>Parasite</titulo>
+            <director>
+                <nombre>Bong Joon Ho</nombre>
+            </director>
+            <protagonistas>
+                <protagonista>Song Kang-ho</protagonista>
+                <protagonista>Lee Sun-kyun</protagonista>
+            </protagonistas>
+            <resumen>
+                Una familia pobre se infiltra en la vida de una familia rica, lo que desencadena una serie de eventos inesperados.
+            </resumen>
+            <sala>Sala 5</sala>
+            <sesiones>
+                <sesion>12:30</sesion>
+                <sesion>16:30</sesion>
+                <sesion>20:30</sesion>
+            </sesiones>
+        </pelicula>
+    </cartelera>
+    

@@ -1,0 +1,256 @@
+<?xml version = “1.0” ?>
+    <DOCTYPE>
+    <empresa>
+        <edificio>
+            <direccion>calle pepito, 20</direccion>
+            <plantas>
+                <planta>
+                <N_Plantas> 1 </N_Plantas>
+                <N_cuadrados> 50 </N_cuadrados>
+                <empleados>
+                    <empleado>
+                        <nombre>Manuel Gutierrez Carmona</nombre>
+                        <telefono>678934583</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Manuel Gutierrez Carmona</nombre>
+                        <telefono>678934583</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Manuel Gutierrez Carmona</nombre>
+                        <telefono>678934583</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Manuel Gutierrez Carmona</nombre>
+                        <telefono>678934583</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Manuel Gutierrez Carmona</nombre>
+                        <telefono>678934583</telefono>
+                    </empleado>
+                </empleados>
+                </planta>
+                <planta>
+                    <N_Plantas> 2 </N_Plantas>
+                    <N_cuadrados> 50 </N_cuadrados>
+                    <empleados>
+                        <empleado>
+                            <nombre>Manuel Gutierrez Carmona</nombre>
+                            <telefono>678934583</telefono>
+                        </empleado>
+                        <empleado>
+                            <nombre>Manuel Gutierrez Carmona</nombre>
+                            <telefono>678934583</telefono>
+                        </empleado>
+                        <empleado>
+                            <nombre>Manuel Gutierrez Carmona</nombre>
+                            <telefono>678934583</telefono>
+                        </empleado>
+                        <empleado>
+                            <nombre>Manuel Gutierrez Carmona</nombre>
+                            <telefono>678934583</telefono>
+                        </empleado>
+                        <empleado>
+                            <nombre>Manuel Gutierrez Carmona</nombre>
+                            <telefono>678934583</telefono>
+                        </empleado>
+                    </empleados>
+                    </planta>
+                    <planta>
+                        <N_Plantas> 3 </N_Plantas>
+                        <N_cuadrados> 50 </N_cuadrados>
+                        <empleados>
+                            <empleado>
+                                <nombre>Manuel Gutierrez Carmona</nombre>
+                                <telefono>678934583</telefono>
+                            </empleado>
+                            <empleado>
+                                <nombre>Manuel Gutierrez Carmona</nombre>
+                                <telefono>678934583</telefono>
+                            </empleado>
+                            <empleado>
+                                <nombre>Manuel Gutierrez Carmona</nombre>
+                                <telefono>678934583</telefono>
+                            </empleado>
+                            <empleado>
+                                <nombre>Manuel Gutierrez Carmona</nombre>
+                                <telefono>678934583</telefono>
+                            </empleado>
+                            <empleado>
+                                <nombre>Manuel Gutierrez Carmona</nombre>
+                                <telefono>678934583</telefono>
+                            </empleado>
+                        </empleados>
+                        </planta>
+            </plantas>
+
+        </edificio>
+        <edificio>
+            <direccion>calle horno, 20</direccion>
+            <plantas>
+                <planta>
+                <N_Plantas> 1 </N_Plantas>
+                <N_cuadrados> 67 </N_cuadrados>
+                <empleados>
+                    <empleado>
+                        <nombre>Manuel Gutierrez Carmona</nombre>
+                        <telefono>678934583</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Manuel Gutierrez Carmona</nombre>
+                        <telefono>678934583</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Manuel Gutierrez Carmona</nombre>
+                        <telefono>678934583</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Manuel Gutierrez Carmona</nombre>
+                        <telefono>678934583</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Manuel Gutierrez Carmona</nombre>
+                        <telefono>678934583</telefono>
+                    </empleado>
+                </empleados>
+                </planta>
+                <planta>
+                    <N_Plantas> 2 </N_Plantas>
+                    <N_cuadrados> 67 </N_cuadrados>
+                    <empleados>
+                        <empleado>
+                            <nombre>Manuel Gutierrez Carmona</nombre>
+                            <telefono>678934583</telefono>
+                        </empleado>
+                        <empleado>
+                            <nombre>Manuel Gutierrez Carmona</nombre>
+                            <telefono>678934583</telefono>
+                        </empleado>
+                        <empleado>
+                            <nombre>Manuel Gutierrez Carmona</nombre>
+                            <telefono>678934583</telefono>
+                        </empleado>
+                        <empleado>
+                            <nombre>Manuel Gutierrez Carmona</nombre>
+                            <telefono>678934583</telefono>
+                        </empleado>
+                        <empleado>
+                            <nombre>Manuel Gutierrez Carmona</nombre>
+                            <telefono>678934583</telefono>
+                        </empleado>
+                    </empleados>
+                    </planta>
+                    <planta>
+                        <N_Plantas> 3 </N_Plantas>
+                        <N_cuadrados> 67 </N_cuadrados>
+                        <empleados>
+                            <empleado>
+                                <nombre>Manuel Gutierrez Carmona</nombre>
+                                <telefono>678934583</telefono>
+                            </empleado>
+                            <empleado>
+                                <nombre>Manuel Gutierrez Carmona</nombre>
+                                <telefono>678934583</telefono>
+                            </empleado>
+                            <empleado>
+                                <nombre>Manuel Gutierrez Carmona</nombre>
+                                <telefono>678934583</telefono>
+                            </empleado>
+                            <empleado>
+                                <nombre>Manuel Gutierrez Carmona</nombre>
+                                <telefono>678934583</telefono>
+                            </empleado>
+                            <empleado>
+                                <nombre>Manuel Gutierrez Carmona</nombre>
+                                <telefono>678934583</telefono>
+                            </empleado>
+                        </empleados>
+                        </planta>
+            </plantas>
+
+        </edificio>
+        <edificio>
+            <direccion>calle mendez nuñez, 20</direccion>
+            <plantas>
+                <planta>
+                <N_Plantas> 1 </N_Plantas>
+                <N_cuadrados> 45 </N_cuadrados>
+                <empleados>
+                    <empleado>
+                        <nombre>Manuel Gutierrez Carmona</nombre>
+                        <telefono>678934583</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Manuel Gutierrez Carmona</nombre>
+                        <telefono>678934583</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Manuel Gutierrez Carmona</nombre>
+                        <telefono>678934583</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Manuel Gutierrez Carmona</nombre>
+                        <telefono>678934583</telefono>
+                    </empleado>
+                    <empleado>
+                        <nombre>Manuel Gutierrez Carmona</nombre>
+                        <telefono>678934583</telefono>
+                    </empleado>
+                </empleados>
+                </planta>
+                <planta>
+                    <N_Plantas> 2 </N_Plantas>
+                    <N_cuadrados> 45 </N_cuadrados>
+                    <empleados>
+                        <empleado>
+                            <nombre>Manuel Gutierrez Carmona</nombre>
+                            <telefono>678934583</telefono>
+                        </empleado>
+                        <empleado>
+                            <nombre>Manuel Gutierrez Carmona</nombre>
+                            <telefono>678934583</telefono>
+                        </empleado>
+                        <empleado>
+                            <nombre>Manuel Gutierrez Carmona</nombre>
+                            <telefono>678934583</telefono>
+                        </empleado>
+                        <empleado>
+                            <nombre>Manuel Gutierrez Carmona</nombre>
+                            <telefono>678934583</telefono>
+                        </empleado>
+                        <empleado>
+                            <nombre>Manuel Gutierrez Carmona</nombre>
+                            <telefono>678934583</telefono>
+                        </empleado>
+                    </empleados>
+                    </planta>
+                    <planta>
+                        <N_Plantas> 3 </N_Plantas>
+                        <N_cuadrados> 45 </N_cuadrados>
+                        <empleados>
+                            <empleado>
+                                <nombre>Manuel Gutierrez Carmona</nombre>
+                                <telefono>678934583</telefono>
+                            </empleado>
+                            <empleado>
+                                <nombre>Manuel Gutierrez Carmona</nombre>
+                                <telefono>678934583</telefono>
+                            </empleado>
+                            <empleado>
+                                <nombre>Manuel Gutierrez Carmona</nombre>
+                                <telefono>678934583</telefono>
+                            </empleado>
+                            <empleado>
+                                <nombre>Manuel Gutierrez Carmona</nombre>
+                                <telefono>678934583</telefono>
+                            </empleado>
+                            <empleado>
+                                <nombre>Manuel Gutierrez Carmona</nombre>
+                                <telefono>678934583</telefono>
+                            </empleado>
+                        </empleados>
+                        </planta>
+            </plantas>
+
+        </edificio>
+    </empresa>

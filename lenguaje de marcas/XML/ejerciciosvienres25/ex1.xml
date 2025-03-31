@@ -1,0 +1,65 @@
+<?xml version = “1.0” ?>
+    <DOCTYPE ex1>
+<profesores>
+    <profesor>
+        
+        <asignatura>Matemáticas 
+            <alumnos nombre="pepe"> </alumnos>
+            <alumnos nombre="pepe"> </alumnos>
+            <alumnos nombre="pepe"> </alumnos>
+            <alumnos nombre="pepe"> </alumnos>
+            <alumnos nombre="pepe"> </alumnos>
+            <alumnos nombre="pepe"> </alumnos>
+            <alumnos nombre="pepe"> </alumnos>
+            <alumnos nombre="pepe"> </alumnos>
+            <alumnos nombre="pepe"> </alumnos>
+            <alumnos nombre="pepe"> </alumnos>
+            <alumnos nombre="pepe"> </alumnos>
+
+
+            </asignatura>
+         <asignatura>Geografia
+            <alumnos nombre="pepe"> </alumnos>
+            <alumnos nombre="pepe"> </alumnos>
+            <alumnos nombre="pepe"> </alumnos>
+            <alumnos nombre="pepe"> </alumnos>
+            <alumnos nombre="pepe"> </alumnos>
+            <alumnos nombre="pepe"> </alumnos>
+            <alumnos nombre="pepe"> </alumnos>
+            <alumnos nombre="pepe"> </alumnos>
+            <alumnos nombre="pepe"> </alumnos>
+
+            </asignatura>
+        </profesor>
+        <profesor>
+            <asignatura>Inglés
+                <alumnos nombre="pepe"> </alumnos>
+                <alumnos nombre="pepe"> </alumnos>
+                <alumnos nombre="pepe"> </alumnos>
+                <alumnos nombre="pepe"> </alumnos>
+                <alumnos nombre="pepe"> </alumnos>
+                <alumnos nombre="pepe"> </alumnos>
+                <alumnos nombre="pepe"> </alumnos>
+                <alumnos nombre="pepe"> </alumnos>
+                <alumnos nombre="pepe"> </alumnos>
+                <alumnos nombre="pepe"> </alumnos>
+
+            </asignatura>
+            <asignatura>Historia
+                <alumnos nombre="pepe"> </alumnos>
+                <alumnos nombre="pepe"> </alumnos>
+                <alumnos nombre="pepe"> </alumnos>
+                <alumnos nombre="pepe"> </alumnos>
+                <alumnos nombre="pepe"> </alumnos>
+                <alumnos nombre="pepe"> </alumnos>
+                <alumnos nombre="pepe"> </alumnos>
+                <alumnos nombre="pepe"> </alumnos>
+                <alumnos nombre="pepe"> </alumnos>
+                <alumnos nombre="pepe"> </alumnos>
+                <alumnos nombre="pepe"> </alumnos>
+                <alumnos nombre="pepe"> </alumnos>
+                <alumnos nombre="pepe"> </alumnos>
+                
+            </asignatura>
+            </profesor>
+</profesores>

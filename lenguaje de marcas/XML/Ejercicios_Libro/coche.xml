@@ -1,0 +1,94 @@
+<?xml version = “1.0” ?>
+    <DOCTYPE>
+        <consecionario>
+            <marca>
+                <nombre>BMW</nombre>
+                <pais_procedencia> Aleman</pais_procedencia>
+                <coche>
+                    <matricula>2345432S</matricula>
+                    <año_matriculacion>12/03/21</año_matriculacion>
+                    <modelo> m4</modelo>
+                    <numero_plazas> 4 </numero_plazas>
+                    <cc_cilidrada> 2979 </cc_cilidrada>
+                </coche>
+                <coche>
+                    <matricula>7656765A</matricula>
+                    <año_matriculacion>14/05/22</año_matriculacion>
+                    <modelo> m5</modelo>
+                    <numero_plazas> 4 </numero_plazas>
+                    <cc_cilidrada> 4395 </cc_cilidrada>
+                </coche>
+            </marca>
+            <marca>
+                <nombre>BMW</nombre>
+                <pais_procedencia> Aleman</pais_procedencia>
+                <coche>
+                    <matricula>2345432S</matricula>
+                    <año_matriculacion>12/03/21</año_matriculacion>
+                    <modelo> m4</modelo>
+                    <numero_plazas> 4 </numero_plazas>
+                    <cc_cilidrada> 2979 </cc_cilidrada>
+                </coche>
+                <coche>
+                    <matricula>7656765A</matricula>
+                    <año_matriculacion>14/05/22</año_matriculacion>
+                    <modelo> m5</modelo>
+                    <numero_plazas> 4 </numero_plazas>
+                    <cc_cilidrada> 4395 </cc_cilidrada>
+                </coche>
+            </marca>
+            <marca>
+                <nombre>BMW</nombre>
+                <pais_procedencia> Aleman</pais_procedencia>
+                <coche>
+                    <matricula>2345432S</matricula>
+                    <año_matriculacion>12/03/21</año_matriculacion>
+                    <modelo> m4</modelo>
+                    <numero_plazas> 4 </numero_plazas>
+                    <cc_cilidrada> 2979 </cc_cilidrada>
+                </coche>
+                <coche>
+                    <matricula>7656765A</matricula>
+                    <año_matriculacion>14/05/22</año_matriculacion>
+                    <modelo> m5</modelo>
+                    <numero_plazas> 4 </numero_plazas>
+                    <cc_cilidrada> 4395 </cc_cilidrada>
+                </coche>
+            </marca>
+            <marca>
+                <nombre>BMW</nombre>
+                <pais_procedencia> Aleman</pais_procedencia>
+                <coche>
+                    <matricula>2345432S</matricula>
+                    <año_matriculacion>12/03/21</año_matriculacion>
+                    <modelo> m4</modelo>
+                    <numero_plazas> 4 </numero_plazas>
+                    <cc_cilidrada> 2979 </cc_cilidrada>
+                </coche>
+                <coche>
+                    <matricula>7656765A</matricula>
+                    <año_matriculacion>14/05/22</año_matriculacion>
+                    <modelo> m5</modelo>
+                    <numero_plazas> 4 </numero_plazas>
+                    <cc_cilidrada> 4395 </cc_cilidrada>
+                </coche>
+            </marca>
+            <marca>
+                <nombre>BMW</nombre>
+                <pais_procedencia> Aleman</pais_procedencia>
+                <coche>
+                    <matricula>2345432S</matricula>
+                    <año_matriculacion>12/03/21</año_matriculacion>
+                    <modelo> m4</modelo>
+                    <numero_plazas> 4 </numero_plazas>
+                    <cc_cilidrada> 2979 </cc_cilidrada>
+                </coche>
+                <coche>
+                    <matricula>7656765A</matricula>
+                    <año_matriculacion>14/05/22</año_matriculacion>
+                    <modelo> m5</modelo>
+                    <numero_plazas> 4 </numero_plazas>
+                    <cc_cilidrada> 4395 </cc_cilidrada>
+                </coche>
+            </marca>
+        </consecionario>

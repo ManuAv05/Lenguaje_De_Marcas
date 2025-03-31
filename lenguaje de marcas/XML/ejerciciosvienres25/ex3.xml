@@ -1,0 +1,20 @@
+<?xml version = “1.0” ?>
+    <DOCTYPE ex2>
+<libroderecetas>
+    <receta>
+        <nombrereceta>Pollo al curry</nombrereceta>
+        <ingredientes>cebolla, nata de cocinar, pollo, curry </ingredientes>
+        <paso>Cortamos la cebolla y dejamos que se fria en la sarten</paso>
+        <paso>cuando este hecha añadimos sal y el pollo</paso>
+        <paso>cuando este hecho el pollo añadimos la nata , el curry y le damos otro toque de sal</paso>
+        <paso>DISFRUTAR</paso>
+    </receta>
+    <receta>
+        <nombrereceta>Tortilla de patatas </nombrereceta>
+        <ingredientes>huevos, patata, cebolla, pimientos </ingredientes>
+        <paso>batimos los huevos y le añadimos sal</paso>
+        <paso>cortamos la verdura y la hechamos a la sarten hasta que este hecho</paso>
+        <paso>cuando este hecho cortamos la patata que deberiamos de haber freido antes y se la hechamos todos a una sarten</paso>
+        <paso>Esperar a que se haga, darle la vuelta y esperar un poco a que se haga, esto debe de ser al gusto ya que hay personas que le gusta mas o menos hecha</paso>
+    </receta>
+</libroderecetas>

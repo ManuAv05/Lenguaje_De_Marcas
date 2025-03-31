@@ -1,0 +1,20 @@
+<?xml version = “1.0” ?>
+    <DOCTYPE ex1>
+    <profesores>
+        <profesor1> Pepe León 
+        <asignatura>Matemáticas 
+            <alumnos> Manuel ávila, Alvaro fernandez, rosa, fernando....</alumnos>
+            </asignatura>
+         <asignatura>Geografia
+                <alumnos>Manuel ávila, Alvaro fernandez, rosa, fernando....</alumnos>
+            </asignatura></profesor1>
+        
+        <profesor2> Rosa María
+            <asignatura>Inglés
+                <alumnos> Manuel ávila, Alvaro fernandez, rosa, fernando....</alumnos>
+            </asignatura>
+            <asignatura>Historia
+                <alumnos>Manuel ávila, Alvaro fernandez, rosa, fernando....</alumnos>
+            </asignatura></profesor2>
+
+    </profesores>

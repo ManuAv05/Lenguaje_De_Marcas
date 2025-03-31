@@ -1,0 +1,208 @@
+<horario>
+    <dia nombre="Lunes">
+        <clase>
+            <hora>08:30 - 10:30</hora>
+            <asignatura>
+                <nombre>Programación</nombre>
+                <aula>Aula Dam</aula>
+                <profesor>
+                    <nombre>Alejandro Torres Huelva</nombre>
+                    <email>atohu3456@g.educaand.es</email>
+                    <departamento>Informatica</departamento>
+                </profesor>
+            </asignatura>
+        </clase>
+        <clase>
+            <hora>10:30 - 13:00</hora>
+            <asignatura>
+                <nombre>Base de Datos</nombre>
+                <aula>Aula Dam</aula>
+                <profesor>
+                    <nombre>Teo Rojas Mata</nombre>
+                    <email>troma2323@g.educaand.es</email>
+                    <departamento>Informática</departamento>
+                </profesor>
+            </asignatura>
+        </clase>
+        <clase>
+            <hora>13:00 - 15:00</hora>
+            <asignatura>
+                <nombre>Entornos de Desarrollo</nombre>
+                <aula>Aula dam</aula>
+                <profesor>
+                    <nombre>Teo Rojas Mata</nombre>
+                    <email>troma2323@g.educaand.es</email>
+                    <departamento>Informatica</departamento>
+                </profesor>
+            </asignatura>
+        </clase>
+    </dia>
+
+    <dia nombre="Martes">
+        <clase>
+            <hora>08:30 - 9:30</hora>
+            <asignatura>
+                <nombre>Entornos</nombre>
+                <aula>Aula Dam</aula>
+                <profesor>
+                    <nombre>Teo Rojas Mata</nombre>
+                    <email>troma2323@g.educaand.es</email>
+                    <departamento>Informatica</departamento>
+                </profesor>
+            </asignatura>
+        </clase>
+        <clase>
+            <hora>09:30 - 10:30</hora>
+            <asignatura>
+                <nombre>Itirenario Personal</nombre>
+                <aula>Aula Dam</aula>
+                <profesor>
+                    <nombre>María Fernandez Mata</nombre>
+                    <email>troma2323@g.educaand.es</email>
+                    <departamento>Informatica</departamento>
+                </profesor>
+            </asignatura>
+        </clase>
+        <clase>
+            <hora>10:30 - 11:30</hora>
+            <asignatura>
+                <nombre>Sostenibilidad</nombre>
+                <aula>Aula Dam</aula>
+                <profesor>
+                    <nombre>Alejandro Torres Huelva</nombre>
+                    <email>troma2323@g.educaand.es</email>
+                    <departamento>Informática</departamento>
+                </profesor>
+            </asignatura>
+        </clase>
+        <clase>
+            <hora>13:00 - 15:00</hora>
+            <asignatura>
+                <nombre>Entornos de Desarrollo</nombre>
+                <aula>Aula dam</aula>
+                <profesor>
+                    <nombre>Teo Rojas Mata</nombre>
+                    <email>troma2323@g.educaand.es</email>
+                    <departamento>Informatica</departamento>
+                </profesor>
+            </asignatura>
+        </clase>
+    </dia>
+
+    <dia nombre="Miércoles">
+        <clase>
+            <hora>08:00 - 10:00</hora>
+            <asignatura>
+                <nombre>programacion</nombre>
+                <aula>Aula dam</aula>
+                <profesor>
+                    <nombre>Alejandro torres huelva</nombre>
+                    <email>atohu43434@g.educaand.es</email>
+                    <departamento>Informatica</departamento>
+                </profesor>
+            </asignatura>
+        </clase>
+        <clase>
+            <hora>10:00 - 12:00</hora>
+            <asignatura>
+                <nombre>lenguajes</nombre>
+                <aula>Aula dam</aula>
+                <profesor>
+                    <nombre>Miguel Morales Carmona</nombre>
+                    <email>mmocar21323@g.educaand.es</email>
+                    <departamento>Informática</departamento>
+                </profesor>
+            </asignatura>
+        </clase>
+        <clase>
+            <hora>12:00 - 13:00</hora>
+            <asignatura>
+                <nombre>Base de datos</nombre>
+                <aula>Aula dam</aula>
+                <profesor>
+                    <nombre>Teo Rojas Mata</nombre>
+                    <email>troma3123@g.educaand.es</email>
+                    <departamento>Informatica</departamento>
+                </profesor>
+            </asignatura>
+        </clase>
+    </dia>
+    <dia nombre="Jueves">
+        <clase>
+            <hora>08:00 - 10:00</hora>
+            <asignatura>
+                <nombre>programacion</nombre>
+                <aula>Aula dam</aula>
+                <profesor>
+                    <nombre>Alejandro torres huelva</nombre>
+                    <email>atohu43434@g.educaand.es</email>
+                    <departamento>Informatica</departamento>
+                </profesor>
+            </asignatura>
+        </clase>
+        <clase>
+            <hora>10:00 - 12:00</hora>
+            <asignatura>
+                <nombre>lenguajes</nombre>
+                <aula>Aula dam</aula>
+                <profesor>
+                    <nombre>Miguel Morales Carmona</nombre>
+                    <email>mmocar21323@g.educaand.es</email>
+                    <departamento>Informática</departamento>
+                </profesor>
+            </asignatura>
+        </clase>
+        <clase>
+            <hora>12:00 - 13:00</hora>
+            <asignatura>
+                <nombre>Base de datos</nombre>
+                <aula>Aula dam</aula>
+                <profesor>
+                    <nombre>Teo Rojas Mata</nombre>
+                    <email>troma3123@g.educaand.es</email>
+                    <departamento>Informatica</departamento>
+                </profesor>
+            </asignatura>
+        </clase>
+    </dia>
+    <dia nombre="Viernes">
+        <clase>
+            <hora>08:00 - 10:00</hora>
+            <asignatura>
+                <nombre>programacion</nombre>
+                <aula>Aula dam</aula>
+                <profesor>
+                    <nombre>Alejandro torres huelva</nombre>
+                    <email>atohu43434@g.educaand.es</email>
+                    <departamento>Informatica</departamento>
+                </profesor>
+            </asignatura>
+        </clase>
+        <clase>
+            <hora>10:00 - 12:00</hora>
+            <asignatura>
+                <nombre>lenguajes</nombre>
+                <aula>Aula dam</aula>
+                <profesor>
+                    <nombre>Miguel Morales Carmona</nombre>
+                    <email>mmocar21323@g.educaand.es</email>
+                    <departamento>Informática</departamento>
+                </profesor>
+            </asignatura>
+        </clase>
+        <clase>
+            <hora>12:00 - 13:00</hora>
+            <asignatura>
+                <nombre>Base de datos</nombre>
+                <aula>Aula dam</aula>
+                <profesor>
+                    <nombre>Teo Rojas Mata</nombre>
+                    <email>troma3123@g.educaand.es</email>
+                    <departamento>Informatica</departamento>
+                </profesor>
+            </asignatura>
+        </clase>
+    </dia>
+
+    
+</horario>

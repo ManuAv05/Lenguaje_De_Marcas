@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiporder orderid="12345" >
+    <orderperson>John Doe</orderperson>
+    <shipto>
+        <name>Jane Smith</name>
+        <address>123 Maple Street</address>
+        <city>Springfield</city>
+        <country>USA</country>
+    </shipto>
+    <item>
+        <title>Book: XML Programming</title>
+        <note>Special edition</note>
+        <quantity>2</quantity>
+        <price>29.99</price>
+    </item>
+    <item>
+        <title>Laptop</title>
+        <quantity>1</quantity>
+        <price>799.99</price>
+    </item>
+</shiporder>

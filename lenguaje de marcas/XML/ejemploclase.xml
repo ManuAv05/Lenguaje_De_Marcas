@@ -1,0 +1,23 @@
+<?xml version = “1.0” ?>
+    <DOCTYPE steam>
+<steam>
+    <perfil>
+        <nombre>Miguel</nombre>
+        <edad> 32 </edad>
+        <dinero> 23 </dinero>
+    <biblioteca propietario = "Miguel">
+        <juegos>
+            <título>Minecraft</titulo>
+            <horas> 8000 </horas>
+            <ultimaspartidas> Ayer </ultimaspartidas>
+
+
+        </juegos>
+        <juegos>
+            <título>The witcher</titulo>
+            <horas> 45345 </horas>
+            <ultimaspartidas> 2018 </ultimaspartidas>
+
+        </juegos>
+    </biblioteca>
+</steam>

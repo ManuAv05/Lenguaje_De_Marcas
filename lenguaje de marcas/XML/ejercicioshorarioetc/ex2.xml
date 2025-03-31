@@ -1,0 +1,78 @@
+<?xml version = “1.0” encoding="UTF-8" ?>
+    <DOCTYPE>
+    <ordenador>
+    <nombreEquipo>PC-Gaming-2024</nombreEquipo>
+    
+    <hardware>
+        <pieza>
+            <tipo>Procesador</tipo>
+            <fabricante>Intel</fabricante>
+            <precioCompra>350.00</precioCompra>
+            <caracteristicas>
+                <modelo>Core i9-13900K</modelo>
+                <velocidad>5.8 GHz</velocidad>
+                <nucleos>24</nucleos>
+                <consumo>125W</consumo>
+            </caracteristicas>
+        </pieza>
+        
+        <pieza>
+            <tipo>Placa Base</tipo>
+            <fabricante>ASUS</fabricante>
+            <precioCompra>250.00</precioCompra>
+            <caracteristicas>
+                <modelo>ROG Strix Z690-E</modelo>
+                <socket>LGA 1700</socket>
+                <puertosUSB>8</puertosUSB>
+            </caracteristicas>
+        </pieza>
+        
+        <pieza>
+            <tipo>Memoria RAM</tipo>
+            <fabricante>Corsair</fabricante>
+            <precioCompra>180.00</precioCompra>
+            <caracteristicas>
+                <modelo>Vengeance RGB Pro</modelo>
+                <capacidad>32 GB</capacidad>
+                <frecuencia>3600 MHz</frecuencia>
+                <tipo>DDR4</tipo>
+            </caracteristicas>
+        </pieza>
+        
+        <pieza>
+            <tipo>Tarjeta Gráfica</tipo>
+            <fabricante>NVIDIA</fabricante>
+            <precioCompra>1200.00</precioCompra>
+            <caracteristicas>
+                <modelo>GeForce RTX 4090</modelo>
+                <memoria>24 GB GDDR6X</memoria>
+                <tamaño>3 ranuras</tamaño>
+            </caracteristicas>
+        </pieza>
+        
+        <pieza>
+            <tipo>Disco Duro</tipo>
+            <fabricante>Samsung</fabricante>
+            <precioCompra>150.00</precioCompra>
+            <caracteristicas>
+                <modelo>980 Pro</modelo>
+                <capacidad>2 TB</capacidad>
+                <tipo>SSD NVMe</tipo>
+                <velocidadLectura>7000 MB/s</velocidadLectura>
+                <velocidadEscritura>5100 MB/s</velocidadEscritura>
+            </caracteristicas>
+        </pieza>
+        
+        <pieza>
+            <tipo>Fuente de Alimentación</tipo>
+            <fabricante>EVGA</fabricante>
+            <precioCompra>130.00</precioCompra>
+            <caracteristicas>
+                <modelo>SuperNOVA 850 G5</modelo>
+                <potencia>850W</potencia>
+                <certificacion>80+ Gold</certificacion>
+                <modular>Completamente Modular</modular>
+            </caracteristicas>
+        </pieza>
+    </hardware>
+</ordenador>

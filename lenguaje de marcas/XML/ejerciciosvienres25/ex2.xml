@@ -1,0 +1,17 @@
+<?xml version = “1.0” ?>
+    <DOCTYPE ex2>
+<autobus>
+    <ruta>
+        <horarios>10:30-12:30</horarios>
+        <paradas>Los arroyones</paradas>
+        <paradas>posadas</paradas>
+        <paradas>almodovar</paradas>
+
+    </ruta>
+    <ruta>
+        <horarios>16:30-17:50</horarios>
+        <paradas>la carlota</paradas>
+        <paradas>ecija</paradas>
+        <paradas>palma del rio </paradas>
+    </ruta>
+</autobus>

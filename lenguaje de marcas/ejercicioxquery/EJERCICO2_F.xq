@@ -1,0 +1,25 @@
+n <html>
+  <head>
+    <title>Tabla baile</title>
+  </head>
+  <body>
+    <table border="1">
+      <tr>
+          <th>nombre</th>
+          <th>profesor</th>
+          <th>plazas</th>
+      </tr>
+      {
+        for $x in doc("ejercicio_2_bailes.xml")//baile
+        where $x/precio/@cuota="trimestral"
+        order by $x/plazas
+        return <tr>
+                    <td>{$x/nombre}</td>
+                    <td>{$x/profesor}</td>
+                    <td>{$x/plazas}</td>
+               </tr>
+      }
+      
+    </table>
+  </body>
+</html>

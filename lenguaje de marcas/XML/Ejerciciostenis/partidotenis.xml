@@ -1,0 +1,177 @@
+<?xml version = “1.0” ?>
+    <DOCTYPE>
+<torneo>
+    <nombre>Torneo gran slam</nombre>
+    <inicio_torneo>12/07/24</inicio_torneo>
+    <fin_torneo>24/12/24</fin_torneo>
+    <partido>
+        <fecha_partido>12/07/24</fecha_partido>
+        <datos_jugador>
+            <nombre>Carlos Alcaraz</nombre>
+            <id_torneo>123123332</id_torneo>
+        </datos_jugador>
+        <datos_jugador>
+            <nombre>Nicolás Almagro</nombre>
+            <id_torneo>455466234</id_torneo>
+        </datos_jugador>
+        <resultado>
+            <ganador>Carlos Alcaraz</ganador>
+            <set>3-2</set>
+            <set>4-2</set>
+            <set>5-1</set>
+        </resultado>
+    </partido>
+    <partido>
+        <fecha_partido>25/07/24</fecha_partido>
+        <datos_jugador>
+            <nombre>José María Alonso Areyzaga</nombre>
+            <id_torneo>5645534242</id_torneo>
+        </datos_jugador>
+        <datos_jugador>
+            <nombre>Alberto Arilla</nombre>
+            <id_torneo>876543456</id_torneo>
+        </datos_jugador>
+        <resultado>
+            <ganador>Alberto Arilla</ganador>
+            <set>3-3</set>
+            <set>5-1</set>
+            <set>3-3</set>
+        </resultado>
+    </partido>
+    <partido>
+        <fecha_partido>04/08/24</fecha_partido>
+        <datos_jugador>
+            <nombre>Jordi Arrese</nombre>
+            <id_torneo>45654324324</id_torneo>
+        </datos_jugador>
+        <datos_jugador>
+            <nombre>Joan Balcells</nombre>
+            <id_torneo>87656434</id_torneo>
+        </datos_jugador>
+        <resultado>
+            <ganador>Jordi Arrese</ganador>
+            <set>3-2</set>
+            <set>4-2</set>
+            <set>5-1</set>
+        </resultado>
+    </partido>
+    <partido>
+        <fecha_partido>12/08/24</fecha_partido>
+        <datos_jugador>
+            <nombre>Roberto Bautista</nombre>
+            <id_torneo>3453546456</id_torneo>
+        </datos_jugador>
+        <datos_jugador>
+            <nombre>Galo Blanco</nombre>
+            <id_torneo>4535546345</id_torneo>
+        </datos_jugador>
+        <resultado>
+            <ganador>Galo Blanco</ganador>
+            <set>3-2</set>
+            <set>4-2</set>
+            <set>5-1</set>
+        </resultado>
+    </partido>
+    <partido>
+        <fecha_partido>14/08/24</fecha_partido>
+        <datos_jugador>
+            <nombre>Gerard Graonllers</nombre>
+            <id_torneo>34324234</id_torneo>
+        </datos_jugador>
+        <datos_jugador>
+            <nombre>Marcel Granollers</nombre>
+            <id_torneo>76545633</id_torneo>
+        </datos_jugador>
+        <resultado>
+            <ganador>Gerars Granollers</ganador>
+            <set>3-2</set>
+            <set>4-2</set>
+            <set>5-1</set>
+        </resultado>
+    </partido>
+    <partido>
+        <fecha_partido>12/07/24</fecha_partido>
+        <datos_jugador>
+            <nombre>Daniel Gimeno</nombre>
+            <id_torneo>109876543</id_torneo>
+        </datos_jugador>
+        <datos_jugador>
+            <nombre>Eduardo Flaquer</nombre>
+            <id_torneo>8765456</id_torneo>
+        </datos_jugador>
+        <resultado>
+            <ganador>Eduardo Flaquer</ganador>
+            <set>3-2</set>
+            <set>4-2</set>
+            <set>5-1</set>
+        </resultado>
+    </partido>
+    <partido>
+        <fecha_partido>25/08/24</fecha_partido>
+        <datos_jugador>
+            <nombre>Nicola Kuhn</nombre>
+            <id_torneo>7654567</id_torneo>
+        </datos_jugador>
+        <datos_jugador>
+            <nombre>José Higueras</nombre>
+            <id_torneo>87654456</id_torneo>
+        </datos_jugador>
+        <resultado>
+            <ganador>José Higueras</ganador>
+            <set>3-2</set>
+            <set>4-2</set>
+            <set>5-1</set>
+        </resultado>
+    </partido>
+    <partido>
+        <fecha_partido>30/08/24</fecha_partido>
+        <datos_jugador>
+            <nombre>Martín Landaluce</nombre>
+            <id_torneo>76545643</id_torneo>
+        </datos_jugador>
+        <datos_jugador>
+            <nombre>Iván Navarro Pastor</nombre>
+            <id_torneo>98765456</id_torneo>
+        </datos_jugador>
+        <resultado>
+            <ganador>Martín Ladaluce</ganador>
+            <set>3-2</set>
+            <set>4-2</set>
+            <set>5-1</set>
+        </resultado>
+    </partido>
+    <partido>
+        <fecha_partido>1/09/24</fecha_partido>
+        <datos_jugador>
+            <nombre>Manuel de Gomar</nombre>
+            <id_torneo>123123332</id_torneo>
+        </datos_jugador>
+        <datos_jugador>
+            <nombre>Jaume Munar</nombre>
+            <id_torneo>455466234</id_torneo>
+        </datos_jugador>
+        <resultado>
+            <ganador>Manuel de Gomar</ganador>
+            <set>3-2</set>
+            <set>4-2</set>
+            <set>5-1</set>
+        </resultado>
+    </partido>
+    <partido>
+        <fecha_partido>12/09/24</fecha_partido>
+        <datos_jugador>
+            <nombre>Rafael Nadal</nombre>
+            <id_torneo>123123332</id_torneo>
+        </datos_jugador>
+        <datos_jugador>
+            <nombre>Carlos Ferrer Peris</nombre>
+            <id_torneo>455466234</id_torneo>
+        </datos_jugador>
+        <resultado>
+            <ganador>Rafael Nadal</ganador>
+            <set>3-2</set>
+            <set>4-2</set>
+            <set>5-1</set>
+        </resultado>
+    </partido>
+</torneo>

@@ -1,0 +1,39 @@
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+tr{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+}
+td:first-child{
+    background-color: green;
+}
+tr:nth-child(4) td:nth-child(2){
+    background-color: yellow;
+    text-align: center;
+}
+tr:first-child ::first-letter{
+    font-size: 200%
+}
+a:link{
+    color: green;
+}
+a:visited{
+    color: red;
+}
+a{
+    text-decoration: none;
+}
+td:hover:last-child{
+    font-size: 200%;
+}
+input{
+    border: 1px red solid;
+}
+label::after{
+    content: '*';
+    color: red;
+}
