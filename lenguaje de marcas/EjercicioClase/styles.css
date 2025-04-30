@@ -1,0 +1,62 @@
+body {
+    background: white;
+    margin: 0;
+    padding: 30px;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: #2c3e50;
+}
+
+#lista-productos {
+    gap: 20px;
+    margin-top: 30px;
+}
+
+#lista-productos:not(.oculto) {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.oculto {
+    display: none;
+}
+
+.producto {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    transition: transform 0.2s ease;
+}
+
+.producto:hover {
+    transform: translateY(-5px);
+}
+
+.producto h2 {
+    margin-top: 0;
+    font-size: 1.2em;
+    color: #34495e;
+}
+
+.producto p {
+    margin: 5px 0;
+    color: #555;
+}
+
+.etiquetas {
+    margin-top: 10px;
+}
+
+.etiquetas span {
+    display: inline-block;
+    background: darkred;
+    color: white;
+    padding: 4px 10px;
+    border-radius: 15px;
+    font-size: 0.8em;
+    margin: 3px 5px 0 0;
+}
